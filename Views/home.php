@@ -5,6 +5,6 @@
   <title>Mini Framework - AbelOSh</title>
 </head>
 <body>
-    <p>Mini Framework V1.0 - <a href="https://abelosh.com">www.abelosh.com</a></p>
+    <p>Mini Framework V1.0 - <a href=""></a></p>
 </body>
 </html>
